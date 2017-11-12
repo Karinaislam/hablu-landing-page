@@ -1,0 +1,168 @@
+.container{
+	padding: 30px 0px;
+}
+
+.coverPic{
+	
+	width: 95%;
+	height: 300px;
+	display: block;
+
+}
+
+.container-1 div{
+	border: 1px #ccc solid;
+	padding: 5px 20px;
+}
+
+.container-1{
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.box {
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+.box h2{
+	color: #e86412;
+}
+
+hr{
+	color: #ccc;
+	width: 90%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.tagLine{
+	padding: 0px 200px;
+	font-weight: bold;
+	color: #16bee0;
+	text-align: center;
+}
+
+
+.flexContainer{
+	display: flex;
+	
+	
+}
+
+.card{
+	width: 50%;
+	margin: 0px 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	
+
+	
+}
+
+.card-body{
+	border-top: 5px #e516de solid;
+
+}
+
+
+
+.cd-block {
+	padding:150px;
+}
+
+
+
+.commentHead{
+	width: 100%;
+	height: 50px;
+	background-color:#c2c3c4;
+}
+
+.commentHead h2{
+
+		font-weight: bold;
+		text-align: center;
+		padding-top: 5px;
+}
+
+
+.comment{
+	width: 100%;
+	height: 300px;
+	background-color: #e0e1e2;
+}
+
+.otherBooks{
+	padding: 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.otherBooks h2{
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+
+}
+
+.bookFlexBox{
+	display: flex;
+	flex-direction: row;
+}
+
+.book{
+
+	width: 80%;
+	justify-content: space-around;
+	margin-top: 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.collect{
+	margin: 20px;
+	width: 100%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
